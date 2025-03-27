@@ -1,4 +1,4 @@
-# variantCallingNanopore
+# Variant Calling in Nanopore NGS Data
 
 A pipeline for calling variants in worms. Project from John Gilleard's lab
 
